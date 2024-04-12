@@ -1,0 +1,36 @@
+.logo{
+    display: flex;
+    color: black;
+}
+.spun{
+    color: cornflowerblue;
+}
+.navigation{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    list-style: none;
+    margin-top: 25px;
+}
+.sect{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.navsect{
+    display: flex;
+    justify-content: center;
+}
+.raby{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+footer{
+    background-color: #2F303A;
+}
+.addr{
+    color:#FFFFFF ;
+}
